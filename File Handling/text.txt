@@ -1,1 +1,0 @@
-This file is created for to check my File handling program is working or not and this is my third task of my internship.
